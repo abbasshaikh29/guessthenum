@@ -1,0 +1,1 @@
+Please provide 10 JavaScript exercises focusing on objects and arrays. Each exercise should include a brief description of the task and expected outcomes. The difficulty should range from beginner to intermediate level. Ensure that the exercises cover various operations such as creating, accessing, modifying, and manipulating objects and arrays."
